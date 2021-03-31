@@ -1,4 +1,4 @@
-const API_URL =
+export const API_URL =
   "https://reactjs-course-97d43-default-rtdb.firebaseio.com/events.json";
 
 export async function getAllEvents() {
